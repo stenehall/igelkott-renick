@@ -1,0 +1,19 @@
+{
+  "name": "igelkott-renick",
+  "description": "Append _ to igelkotts nick if needed",
+  "version": "0.1.0",
+  "main": "igelkott-renick.js",
+  "dependencies": { },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "1.3.x",
+    "igelkott": "*"
+  },
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/stenehall/igelkott-renick.git"
+  }
+}
