@@ -9,3 +9,4 @@ Renick.prototype.renick = function renick() {
 };
 
 exports.Plugin = Renick;
+
